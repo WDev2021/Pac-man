@@ -1,8 +1,8 @@
 # MITxPro
-Website:
+Website: **https://wdev2021.github.io/Pac-man/**
 
 ## Name  
-Miami Info
+Pac-Man
 
 ## Description  
 This is a practice exercise to learn how to biuld a basic **animation**
