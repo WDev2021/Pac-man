@@ -5,7 +5,7 @@ Website: **https://wdev2021.github.io/Pac-man/**
 Pac-Man
 
 ## Description  
-This is a practice exercise to learn how to biuld a basic **animation**
+This is a practice exercise to learn how to biuld a basic **animation** The Pacman will change direction when it reaches the window limit
 
 ## Installation 
 Copy the code and change your picture.  Please don't change the code in this Repo
