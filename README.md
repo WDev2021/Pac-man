@@ -1,6 +1,7 @@
 # MITxPro
 Website: **https://wdev2021.github.io/Pac-man/**
 
+
 ## Name  
 Pac-Man
 
@@ -8,7 +9,7 @@ Pac-Man
 This is a practice exercise to learn how to biuld a basic **animation** The Pacman will change direction when it reaches the window limit
 
 ## Installation 
-Copy the code and change your picture.  Please don't change the code in this Repo
+Copy the code and paste it in your repository.  Please don't change the code in this Repo
 
 ## Usage
 Educational purposes
